@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/exitA1"
+        android:title="exit Landmark Display"
+        />
+    <item android:id="@+id/launchA2"
+        android:title="launch Gallery Receiver"/>
+</menu>
