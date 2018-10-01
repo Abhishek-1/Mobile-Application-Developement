@@ -1,3 +1,5 @@
+# Guess Game
+
 In this game, each of two players sets up a secret sequence of four decimal digits, where each digit is not repeated. For
 instance, 2017 is a legal sequence, but 2012 is not because the digit 2 is repeated. The two players take turns
 guessing the sequence of digits of their opponent. Each guess consists of a 4 digit number, without repeated
