@@ -1,3 +1,4 @@
+# Gallery Implementation Application
 
 Application A1 consists of a single activity containing two fragments. The first fragment consists of a
 list naming at least 6 Chicago landmarks (e.g., the Museum of Science and Industry, Wrigley Field, the
